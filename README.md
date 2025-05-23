@@ -15,17 +15,17 @@
 </h3>
 
 ------
-![GitHub forks](https://img.shields.io/github/forks/Badhacker98/PbXbot?style=social)
-![GitHub Repo stars](https://img.shields.io/github/stars/Badhacker98/PbXbot?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Pbx-Official/PbXbot?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/Pbx-Official/PbXbot?style=social)
 
-![Repo Size](https://img.shields.io/github/repo-size/Badhacker98/PbXbot?&style=social&logo=github)
+![Repo Size](https://img.shields.io/github/repo-size/Pbx-Official/PbXbot?&style=social&logo=github)
 ![Branch](https://img.shields.io/badge/Branch-Master-white?&style=social&logo=github)
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-white?&style=social&logo=hugo)
-![GitHub license](https://img.shields.io/github/license/Badhacker98/PbXbot?&style=social&logo=github)
+![GitHub license](https://img.shields.io/github/license/Pbx-Official/PbXbot?&style=social&logo=github)
 
 ![Python](https://img.shields.io/badge/Python-v3.10-white?style=social&logo=python)
-![GitHub language count](https://img.shields.io/github/languages/count/Badhacker98/PbXbot?&style=social&logo=hyper)
+![GitHub language count](https://img.shields.io/github/languages/count/Pbx-Official/PbXbot?&style=social&logo=hyper)
 
 [![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/ll_BAD_MUNDA_WORLD_ll)
 
@@ -46,12 +46,12 @@
 - Fork & Star this repo.
 - Click on below button to access deploy page.
 - NOTE: Click on deploy button from your fork only.
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Badhacker98/PbXbot)
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Pbx-Official/PbXbot)
 
 
 ## Deploy To Render
 - <p align="center">
-  <a href="https://render.com/deploy?repo=https://github.com/Badhacker98/PbXbot" target="_blank">
+  <a href="https://render.com/deploy?repo=https://github.com/Pbx-Official/PbXbot" target="_blank">
     <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
   </a>
 </p>
@@ -61,10 +61,10 @@
 ### Deploy To Vps/local Hosting 
 
 - **VPS/Local hosting**
-- - [![Vps](https://img.shields.io/badge/ᴘʙxʙᴏᴛ-ᴅᴇᴘʟᴏʏ%20ᴛᴏ%20ᴠᴘs-black?style=for-the-badge&logo=vps)](https://github.com/Badhacker98/PbXbot/blob/master/hosting/local.md)
+- - [![Vps](https://img.shields.io/badge/ᴘʙxʙᴏᴛ-ᴅᴇᴘʟᴏʏ%20ᴛᴏ%20ᴠᴘs-black?style=for-the-badge&logo=vps)](https://github.com/Pbx-Official/PbXbot/blob/master/hosting/local.md)
  
 
-- [**ᴘʟᴜɢɪɴs ʀᴇᴘᴏ**](https://github.com/Badhacker98/Plugins/tree/master)
+- [**ᴘʟᴜɢɪɴs ʀᴇᴘᴏ**](https://github.com/Pbx-Official/Plugins/tree/master)
 ------
 ## Variables
 
@@ -114,7 +114,7 @@
 - Open the terminal.
 - Paste this code.
 
-`pkg install python wget -y && pip install telethon && pip install pyrogram && pip install instagrapi && wget https://raw.githubusercontent.com/Badhacker98/PbXbott/master/Pbx_string.py && python3 Pbx_string.py`
+`pkg install python wget -y && pip install telethon && pip install pyrogram && pip install instagrapi && wget https://raw.githubusercontent.com/Pbx-Official/PbXbott/master/Pbx_string.py && python3 Pbx_string.py`
 
 - Select the type of session.
     - PbxBot Session
@@ -158,10 +158,10 @@
 </p>
 
 <h4 align="center">
-    Copyright (C) 2023 <a href="https://github.com/Badhacker98">Badhacker98</a>
+    Copyright (C) 2023 <a href="https://github.com/Pbx-Official">Pbx-Official</a>
 </h4>
 
-Project [Pbxbot](https://github.com/Badhacker98/PbXbot) is free software: you can redistribute it and/or modify
+Project [Pbxbot](https://github.com/Pbx-Official/PbXbot) is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
@@ -176,6 +176,6 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 ## Credits
 
 - 💖 All the Dependencies
-- 💖 [Team Pbxbot](https://github.com/Badhacker98)
+- 💖 [Team Pbxbot](https://github.com/Pbx-Official)
 
 ------
