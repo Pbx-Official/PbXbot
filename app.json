@@ -11,7 +11,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Badhacker98/PbXbot",
+  "repository": "https://github.com/Pbx-Official/PbXbot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -41,7 +41,7 @@
     },
     "GIT_REPO": {
       "description": "Please Don't Change Anything Here Otherwise The Bot Will Crash.",
-      "value": "Badhacker98/Plugins",
+      "value": "Pbx-Official/Plugins",
       "required": true
     },
     "HEROKU_API_KEY": {
